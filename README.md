@@ -14,11 +14,22 @@ Có những hành trình, trong đó quân mã sau khi đi hết tất cả 64 �
 Hình 1: Vị trí xuất phát của quân Mã trên bàn cờ
 
 Trong cờ vua, quân Mã là quân có cách đi phức tạp nhất. Xét một quân Mã đang đứng trên bàn cờ và tất cả các hình chữ nhật 2 x 3 nhận ô mà quân Mã đó đang đứng làm đỉnh. Quân Mã đó có thể đi tới các đỉnh khác màu với đỉnh nó đang đứng của bất kì hình chữ nhật 2 x 3 nào, miễn là đỉnh đó không nằm ngay cạnh đỉnh nó đang đứng.
+
+
 ![image](https://github.com/user-attachments/assets/bdb14721-9a10-4104-a7cc-b9ec616e2aa5)
+
+
+
 Hình 2: Nước đi của quân Mã
 Quân Mã có thể nhảy qua tất cả các quân khác để đến ô nó muốn, miễn là ô đó chưa bị ai chiếm giữ. Nói nôm na là quân Mã không bị cản. Khác với cờ tướng, nơi mà quân Mã có thể bị cản nếu có quân nào đứng ngay trước mặt nó, trong cờ vua, nước đi của quân Mã không có tính chất này.
 Khi một quân Mã đứng ở cạnh bàn cờ, số nước đi có thể của nó sẽ bị thu hẹp xuống còn nhiều nhất là một nửa số nước đi ban đầu. Đặc biệt, nếu nó đứng ở một trong bốn góc bàn cờ, nó chỉ đi được tối đa hai nước. Câu nói “Mã ở rìa cũng giống như đồ trang trí” từ đây mà ra.
+
+
+
 ![image](https://github.com/user-attachments/assets/783ca6ed-a27a-4ebc-a02c-49ce8bab25f8)
+
+
+
 Hình 3: Mã ở rìa cũng giống như đồ trang trí
 
 1.1.2. Xuất xứ bài toán
