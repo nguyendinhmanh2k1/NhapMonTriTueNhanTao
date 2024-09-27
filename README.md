@@ -39,3 +39,9 @@ Nhiều biến thể của chủ đề này được các nhà toán học nghi�
 -	Thay đổi kích thước bàn cờ.
 -	Biến thành trò chơi hai người theo tư tưởng này.
 - Giảm nhẹ các yêu cầu trên đường đi của quân Mã.
+
+
+
+1.2 GIẢI QUYẾT BÀI TOÁN
+Có nhiều cách giải cho bài toán ngựa đi tuần. Nhưng ở đây ta sử dụng thuật toán quay lui để giải bài toán này. Xuất phát từ 1 ô, gọi số nước đi là t = 1, ta cho quân mã thử đi tiếp 1 ô (có 8 nước đi có thể), nếu ô đi tiếp này chưa đi qua thì chọn làm bước đi tiếp theo. Tại mỗi nước đi kiểm tra xem tổng số nước đi bằng n x n chưa, nếu bằng thì mã đã đi qua tất cả các ô ⇒ dừng (do chỉ cần tìm một giải pháp). Trường hợp ngược lại, gọi đệ quy để chọn nước đi tiếp theo. Ngoài ra, nếu tại một bước tìm đường đi, nếu không tìm được đường đi tiếp thì thuật toán sẽ quay lui lại nước đi trước và tìm đường đi khác.
+
