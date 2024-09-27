@@ -5,7 +5,11 @@ trí bắt đầu thông qua một nước cờ thì đó gọi là một hành 
 Có những hành trình, trong đó quân mã sau khi đi hết tất cả 64 ô của bàn cờ và từ ô cuối của hành trình không thể đi về ô xuất phát chỉ bằng một nước đi. Những hành trình như vậy được gọi là hành trình mở. Có rất nhiều lời giải cho bài toán này, chính xác là 26.534.728.821.064 lời giải trong đó quân mã có thể kết thúc tại chính ô mà nó khởi đầu.
 
 1.1.1. Nước đi của quân Mã trên bàn cờ
+
+
 ![image](https://github.com/user-attachments/assets/95275ebe-8e32-4c51-83b0-407f456be040)
+
+
 
 Hình 1: Vị trí xuất phát của quân Mã trên bàn cờ
 
